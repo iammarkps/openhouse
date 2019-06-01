@@ -3,7 +3,7 @@
     "@mdx-js/mdx": "^0.16.6",
     "@zeit/next-css": "^1.0.1",
     "@zeit/next-mdx": "^1.2.0",
-    "axios": "^0.18.0",
+    "axios": "^0.18.1",
     "bulma": "^0.7.2",
     "file-saver": "^2.0.0",
     "formik": "^1.4.1",
